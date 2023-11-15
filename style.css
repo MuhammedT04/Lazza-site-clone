@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav-link{
+    font-size: 1.3vw;
+    font-family: "Open Sans Condensed", sans-serif;
+}
+.nav-logo{
+    width: 20px;
+    cursor: pointer;
+}
+.nav-item{
+    cursor: pointer;
+}
+.banner{
+
+    padding-left:0 !important;
+    padding-right: 0 !important;
+}
+.ice-image img{
+    width: 100%;
+}
+.ice-image{
+    cursor:pointer ;
+}
+.ice-image>h5{
+    font-family: "Open Sans Condensed", sans-serif;
+    font-size: 16px;
+}
+.last-image{
+    padding-left:0 !important;
+    padding-right: 0 !important;
+}
+.footer-text>h5{
+    color:#be9509;
+    font-family: "Open Sans Condensed", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+}
+.footer-text>h4{
+    color: #be9509;
+    font-size: 16px;
+    line-height: 10px;
+}
+.logos img{
+    width: 29px;
+}
+.logos{
+    padding: 0vw 0.5vw;
+    cursor: pointer;
+}
+.whatsapp{
+
+    transform: translateY(-7rem);
+
+}
+@media (max-width:752px) {
+    .menu{
+        font-size: 1.2rem;
+    }
+}
